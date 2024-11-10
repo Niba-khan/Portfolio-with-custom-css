@@ -14,10 +14,10 @@ export default function Hero() {
           className='image'
         />
       </Link>
-      <h1 className='heading'>Hello, it's Me Niba Khan</h1>
+      <h1 className='heading'>Hello, it,s Me Niba Khan</h1>
       <p className='description'>
-        "AI Student proficient in TypeScript, HTML, CSS, and a Certified Information Technology professional. 
-        <br/>Dedicated to advancing AI with coding expertise and ready to tackle cutting-edge challenges."
+       AI Student proficient in TypeScript, HTML, CSS, and a Certified Information Technology professional. 
+        <br/>Dedicated to advancing AI with coding expertise and ready to tackle cutting-edge challenges.
       </p>
       <Link href="https://cv-in-html-css.vercel.app/" className='link'>
         Download CV
